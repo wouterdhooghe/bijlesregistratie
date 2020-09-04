@@ -5,7 +5,7 @@
 [nieuwe betaling registreren](https://docs.google.com/forms/d/e/1FAIpQLSfWwa8EWsVsiwCwypZBg1ACNc9P92zTph3GwcUE3TqkiIMT4Q/viewform?usp=pp_url)
 
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdljM0T3hZo5lRM7SJDArHLTEgwUjFUok8O7PsEi9tNiL8xPA/viewform?usp=pp_url" target="_blank" rel="noopener noreferrer">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdljM0T3hZo5lRM7SJDArHLTEgwUjFUok8O7PsEi9tNiL8xPA/viewform?usp=pp_url" target="_blank" rel="noopener noreferrer">This link will open in new window/tab</a>
 
 ---
 
