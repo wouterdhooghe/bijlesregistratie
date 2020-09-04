@@ -4,6 +4,10 @@
 
 [nieuwe betaling registreren](https://docs.google.com/forms/d/e/1FAIpQLSfWwa8EWsVsiwCwypZBg1ACNc9P92zTph3GwcUE3TqkiIMT4Q/viewform?usp=pp_url)
 
+---
+
+[google sheet bekijken](https://docs.google.com/spreadsheets/d/1qMvu6Yz0MpJXyfdxcVumYOcz-GB1E1QJjI9lgP94t2Y/edit?usp=sharing)
+
 (saldo opvragen)
 
 (factuur maken en sturen?)
